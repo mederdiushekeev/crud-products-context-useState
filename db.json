@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-shoes-rWtqPn.png",
+      "brand": "Nike",
+      "description": "Jordan",
+      "price": "399$",
+      "id": 1673202870151
+    },
+    {
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-shoes-rWtqPn.png",
+      "brand": "Nike",
+      "description": "Jordan",
+      "price": "399$",
+      "id": 167320287015
+    },
+    {
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-shoes-rWtqPn.png",
+      "brand": "Nike",
+      "description": "Jordan",
+      "price": "399$",
+      "id": 16732028701
+    },
+    {
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-shoes-rWtqPn.png",
+      "brand": "Nike",
+      "description": "Jordan",
+      "price": "399$",
+      "id": 1673202870
+    }
+  ]
+}
